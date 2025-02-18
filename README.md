@@ -36,7 +36,7 @@ No hassle.
 
 ### Project Link's
 
-* [Application Link](https://kickstart.vercel.app/)
+* [Application Link](https://kickstart-client.vercel.app/)
 * [Swagger Link](https://kickstart-server.vercel.app/apidocs/)
 
 <!-- GETTING STARTED -->
